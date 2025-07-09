@@ -39,7 +39,7 @@ Crush the harsh world of **Rust** with our fully undetected, performance-optimiz
 - 💬 Discord access from loader panel  
 
 ---
-
+[![chrome-Pawt-BRl-Tk3.png](https://i.postimg.cc/LsGDGW0w/chrome-Pawt-BRl-Tk3.png)](https://postimg.cc/LqBj1xS3)
 ## 💻 SYSTEM COMPATIBILITY
 
 | Feature                | Supported         |
